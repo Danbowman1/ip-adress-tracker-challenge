@@ -1,0 +1,26 @@
+@media (max-width: 1410px) {
+    .ip-wrapper {
+        top: 17%;
+        justify-content: center;
+    }
+    .ip-container {
+        text-align: center;
+        justify-content: center;
+    }
+    hr {
+        display: none;
+    }
+}
+
+@media (max-width: 750px) {
+    .ip-wrapper {
+        height: 375px;
+    }
+    .ip-label {
+        font-size: 12px;
+    }
+    .data {
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
